@@ -10,9 +10,3 @@ Here is a link to my [[./Emacs.org][Emacs configuration]].
 
 - ...
 - ...
-
-#+begin_src python
-
-  print("Hello Website")
-  
-#+end_src
