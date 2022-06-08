@@ -5,13 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>My Personal Emacs config</title>
+<title>Emacs Configuration</title>
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
 <div id="content" class="content">
-<h1 class="title">My Personal Emacs config</h1>
+<h1 class="title">Emacs Configuration</h1>
 <div class="org-src-container">
 <pre class="src src-emacs-lisp">
 (<span style="font-weight: bold;">setq</span> ...)
