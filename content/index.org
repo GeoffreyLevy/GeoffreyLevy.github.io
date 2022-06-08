@@ -6,7 +6,7 @@ This is the *beginning* of a website that I'm building with Org Mode!
 
 Here is a link to my [[./Emacs.org][Emacs configuration]].
 
-* Links:
+* Links
 
 - ...
 - ...
