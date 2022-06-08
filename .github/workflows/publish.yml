@@ -23,3 +23,7 @@ jobs:
 	with:
 	  branch: gh-pages
 	  folder: public
+	  single-commit: true
+	  clean: true
+	  clean-exclude: |
+	     - .github
