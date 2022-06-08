@@ -12,7 +12,6 @@
 
 ;; Install dependencies
 (package-install 'htmlize)
-(package-install 'org-contrib)
 
 ;; Load the publishing system
 (require 'ox-publish)
