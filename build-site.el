@@ -16,6 +16,7 @@
 ;; Load the publishing system
 (require 'ox-publish)
 
+;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
@@ -31,7 +32,7 @@
              :publishing-directory "./public"
              :with-author nil           ;; Don't include author name
              :with-creator t            ;; Include Emacs and Org version in footer
-             :with-toc nil              ;; Include a table of contents
+             :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil)))    ;; Don't inlcude time stamp in file
 

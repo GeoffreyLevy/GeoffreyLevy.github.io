@@ -2,7 +2,7 @@
 
 * Overview
 
-This is the *beginning* of a website that I'm building with Org Mode!
+This is the *beginning* of a _website_ that I'm building with Org Mode!
 
 Here is a link to my [[./Emacs.org][Emacs configuration]].
 
